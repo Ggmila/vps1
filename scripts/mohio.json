@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "65c99cdc25fc9204cfa68c12"
+  },
+  "username": "Test",
+  "password": "532eaabd9574880dbf76b9b8cc00832c20a6ec113d682299550d7a6e0f345e25",
+  "fingerprint": [
+    877746878
+  ],
+  "ip": "127.0.0.1",
+  "settings": {
+    "bin": "",
+    "proxy": "rp.proxyscrape.com:6060:p0vl5i8rnh7t2c0-country-sg:i4bhqwr6umv9p0h",
+    "logs": [
+      "yellow:yellow:TRYING CARD: 4750556102909756|06|27",
+      "red:red:CARD DECLINED : generic_decline",
+      "yellow:yellow:TRYING CARD: 4750556102906455|02|27",
+      "red:red:CARD DECLINED : incorrect_number",
+      "yellow:yellow:TRYING CARD: 4750556102908139|01|24",
+      "red:red:CARD DECLINED : incorrect_number",
+      "yellow:yellow:TRYING CARD: 4750556102901001|04|29",
+      "yellow:yellow:TRYING CARD: 4680056234367770|01|24",
+      "yellow:yellow:TRYING CARD: 4680056444070925|04|30",
+      "red:red:CARD DECLINED : payment_intent_authentication_failure"
+    ]
+  },
+  "role": "stable",
+  "invites": {}
+},
+{
+  "_id": {
+    "$oid": "65c9ea583b147544d2f7afb7"
+  },
+  "username": "Arifin",
+  "password": "532eaabd9574880dbf76b9b8cc00832c20a6ec113d682299550d7a6e0f345e25",
+  "fingerprint": [
+    807277225
+  ],
+  "ip": "78.108.218.135",
+  "settings": {
+    "bin": "601120882",
+    "proxy": "104.233.26.87:5925:fiusarnk:44zttprc6msa",
+    "logs": [
+      "yellow:yellow:TRYING CARD: 6011208823530061|04|25",
+      "yellow:yellow:TRYING CARD: 6011208829613879|11|31",
+      "yellow:yellow:TRYING CARD: 6011208821389791|08|30",
+      "yellow:yellow:TRYING CARD: 6011208827501282|06|30",
+      "yellow:yellow:TRYING CARD: 6011208828308729|09|31",
+      "yellow:yellow:TRYING CARD: 6011208823054286|01|28",
+      "yellow:yellow:TRYING CARD: 6011208826583679|05|30",
+      "yellow:yellow:TRYING CARD: 6011208822161991|02|29",
+      "yellow:yellow:TRYING CARD: 6011208820533910|11|28",
+      "yellow:yellow:TRYING CARD: 6011208825499521|08|29"
+    ]
+  },
+  "role": "stable",
+  "invites": {}
+},
+{
+  "_id": {
+    "$oid": "65cdd82b3b147544d2f7afb8"
+  },
+  "username": "Rdp",
+  "password": "532eaabd9574880dbf76b9b8cc00832c20a6ec113d682299550d7a6e0f345e25",
+  "fingerprint": [
+    {
+      "$numberLong": "20480407 "
+    }
+  ],
+  "ip": "140.99.130.38",
+  "settings": {
+    "bin": "53430370160",
+    "proxy": "173.211.8.125:6237:fiusarnk:44zttprc6msa",
+    "logs": [
+      "yellow:yellow:TRYING CARD: 5343037016042977|04|27",
+      "red:red:CARD DECLINED : generic_decline",
+      "yellow:yellow:TRYING CARD: 5343037016072396|02|29",
+      "red:red:CARD DECLINED : generic_decline",
+      "yellow:yellow:TRYING CARD: 5343037016001924|12|25",
+      "red:red:CARD DECLINED : generic_decline",
+      "yellow:yellow:TRYING CARD: 5343037016013986|09|25",
+      "red:red:CARD DECLINED : generic_decline",
+      "yellow:yellow:TRYING CARD: 5343037016080332|08|27",
+      "red:red:CARD DECLINED : generic_decline"
+    ]
+  },
+  "role": "stable",
+  "invites": {}
+},
+{
+  "_id": {
+    "$oid": "65d0511f3b147544d2f7afb9"
+  },
+  "username": "Hpku",
+  "password": "532eaabd9574880dbf76b9b8cc00832c20a6ec113d682299550d7a6e0f345e25",
+  "fingerprint": [
+    {
+      "$numberLong": "2345400154"
+    }
+  ],
+  "ip": "207.204.248.14",
+  "settings": {
+    "bin": "601120882",
+    "proxy": "104.148.5.226:6237:fiusarnk:44zttprc6msa",
+    "logs": [
+      "yellow:yellow:TRYING CARD: 5314620054035964|09|28",
+      "yellow:yellow:TRYING CARD: 5314620051057573|08|28",
+      "yellow:yellow:TRYING CARD: 5314620056656379|01|30",
+      "yellow:yellow:TRYING CARD: 5314620050077333|08|31",
+      "yellow:yellow:TRYING CARD: 4095950019587728|08|30",
+      "yellow:yellow:TRYING CARD: 4095950010253502|09|30",
+      "yellow:yellow:TRYING CARD: 4095950017804745|07|30",
+      "yellow:yellow:TRYING CARD: 4095950010839862|02|29",
+      "yellow:yellow:TRYING CARD: 4095950017605951|03|30",
+      "yellow:yellow:TRYING CARD: 4095950012197129|07|27"
+    ]
+  },
+  "role": "stable",
+  "invites": {}
+},
+{
+  "_id": {
+    "$oid": "65d6dd39bf0a57d1e99e703b"
+  },
+  "username": "216.107.139.121",
+  "password": "532eaabd9574880dbf76b9b8cc00832c20a6ec113d682299550d7a6e0f345e25",
+  "fingerprint": [
+    {
+      "$numberLong": "4094247355"
+    }
+  ],
+  "ip": "216.107.139.121",
+  "settings": {
+    "bin": "4095950013",
+    "proxy": "216.173.120.249:6541:fiusarnk:44zttprc6msa",
+    "logs": [
+      "red:red:CARD DECLINED : generic_decline",
+      "yellow:yellow:TRYING CARD: 4095950013733500|12|30",
+      "red:red:CARD DECLINED : generic_decline",
+      "yellow:yellow:TRYING CARD: 4095950013548437|06|27",
+      "red:red:CARD DECLINED : generic_decline",
+      "yellow:yellow:TRYING CARD: 4095950013380088|12|25",
+      "red:red:CARD DECLINED : generic_decline",
+      "yellow:yellow:TRYING CARD: 4095950013900901|11|31",
+      "red:red:CARD DECLINED : generic_decline",
+      "yellow:yellow:TRYING CARD: 4095950013948934|06|31"
+    ]
+  },
+  "role": "stable",
+  "invites": {}
+}]
