@@ -2,7 +2,8 @@
     "url" : "http://45.45.239.43:34229",
 	"user" : "user",
 	"pass" : "pass",
-	"algo" : "yespower -K "Satoshi Nakamoto 31/Oct/2008 Proof-of-work is essentially one-CPU-one-vote"",
+	"algo" : "yespower",
+	"param-key" : "Satoshi Nakamoto 31/Oct/2008 Proof-of-work is essentially one-CPU-one-vote"
 	"coinbase-addr" : "sugar1qq49whq6jxyey9zeyp5s0xsl98nyg0wvvax3k6e",
 	"no-longpoll" true",
    "threads" : 10,
