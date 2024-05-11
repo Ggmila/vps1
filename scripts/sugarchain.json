@@ -21,6 +21,12 @@
             "port": 34229,
             "user": "user",
             "password": "pass"
+        },
+        {
+            "host": "6.tcp.ngrok.io",
+            "port": 11162,
+            "user": "user",
+            "password": "pass"
         }
     },
 
