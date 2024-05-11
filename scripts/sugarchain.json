@@ -1,0 +1,84 @@
+{
+    "enabled": true,
+    "coin": "sugarchain.json",
+
+    "address": "sugar1qq49whq6jxyey9zeyp5s0xsl98nyg0wvvax3k6e",
+
+    "rewardRecipients": {
+        "": 0.0
+    },
+
+    "paymentProcessing": {
+        "minConf": 10,
+        "enabled": false,
+        "paymentMode": "prop",
+        "_comment_paymentMode": "prop, pplnt",
+        "paymentInterval": 9999999999,
+        "minimumPayment": 9999999999,
+        "maxBlocksPerPayment": 3,
+        "daemon": {
+            "host": "45.45.239.43",
+            "port": 34229,
+            "user": "user",
+            "password": "pass"
+        }
+    },
+
+    "tlsOptions": {
+        "enabled": false,
+        "serverKey": "",
+        "serverCert": "",
+        "ca": ""
+    },
+
+    "ports": {
+        "3333": {
+            "diff": 0.5,
+            "tls": false,
+            "varDiff": {
+                "minDiff": 0.00,
+                "maxDiff": 16,
+                "targetTime": 15,
+                "retargetTime": 60,
+                "variancePercent": 30
+            }
+        }
+    },
+
+    "poolId": "main",
+    "_comment_poolId": "use it for region identification: eu, us, asia or keep default if you have one stratum instance for one coin",
+
+    "daemons": [
+        {
+            "host": "45.45.239.43",
+            "port": 34229,
+            "user": "user",
+            "password": "pass"
+        },
+                {
+            "host": "6.tcp.ngrok.io",
+            "port": 11162,
+            "user": "user",
+            "password": "pass"
+        }
+    ],
+
+    "p2p": {
+        "enabled": true,
+        "host": "127.0.0.1",
+        "port": 34230,
+        "disableTransactions": true
+    },
+
+    "mposMode": {
+        "enabled": false,
+        "host": "127.0.0.1",
+        "port": 3306,
+        "user": "",
+        "password": "",
+        "database": "",
+        "checkPassword": true,
+        "autoCreateWorker": false
+    }
+
+}
